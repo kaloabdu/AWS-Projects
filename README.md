@@ -12,3 +12,4 @@ This repository documents my learning progress through hands-on projects, with a
 
 New weekly projects will be added as separate directories while preserving the work completed in previous weeks.
 
+
